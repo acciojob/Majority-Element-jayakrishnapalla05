@@ -19,4 +19,4 @@ function MajorityElement(nums){
 	document.write("Majority Elements "+element);
 	
 }
-MajorityElement();
+MajorityElement(nums);
